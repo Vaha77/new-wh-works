@@ -1,0 +1,45 @@
+export const navbar = [
+  {
+    id: 1,
+    title: "Home",
+    path: "/home",
+    Component: "",
+    hidden: false,
+    exact: true,
+  },
+  {
+    id: 2,
+    title: "Services",
+    path: "/services",
+    Component: "",
+    hidden: false,
+  },
+  {
+    id: 3,
+    title: "Abaut Us",
+    path: "/abaut",
+    Component: "",
+    hidden: false,
+  },
+  {
+    id: 4,
+    title: "Prperties",
+    path: "/propertise",
+    Component: "",
+    hidden: false,
+  },
+  {
+    id: 5,
+    title: "Contact",
+    path: "/contact",
+    Component: "",
+    hidden: false,
+  },
+  {
+    id: 6,
+    title: "Fake API",
+    path: "/fakeApi",
+    Component: "",
+    hidden: false,
+  },
+];
